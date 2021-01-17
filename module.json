@@ -1,0 +1,32 @@
+{
+			"name": "GMmacros",
+			"title": "GMmacros",
+			"description": "A module containing a compendium pack",
+			"author": "Atleticano",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.X",
+			"packs": [
+    					{
+      					"name": "GM Macros",
+      					"label": "GM macros",
+      					"path": "packs/gm-macros.db",
+      					"entity": "Macro",
+      					"module": "GMmacros"
+						},
+					{
+      					"name": "Player Macros",
+      					"label": "Player Macros",
+      					"path": "packs/player-macros.db",
+      					"entity": "Macro",
+      					"module": "GMmacros"
+						},
+					{
+      					"name": "Spell Macros",
+      					"label": "Spell Macros",
+      					"path": "packs/spell-macros.db",
+      					"entity": "Macro",
+      					"module": "GMmacros"
+						}
+					]
+		  }
