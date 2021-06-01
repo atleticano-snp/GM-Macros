@@ -30,6 +30,6 @@
 						}
 					],
     "url": "https://github.com/atleticano-snp/GM-Macros",
-    "manifest": "https://github.com/atleticano-snp/GM-Macros/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/atleticano-snp/GM-Macros/main/module.json",
     "download": "https://github.com/atleticano-snp/GM-Macros/archive/main.zip"
 		  }
