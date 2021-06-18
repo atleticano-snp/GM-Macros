@@ -27,14 +27,14 @@
       					"path": "packs/actors.db",
       					"entity": "Actor",
       					"module": "GMmacros"
-						}
+						},
 {
       					"name": "Spell Item-Macro",
       					"label": "Spell Item-Macro",
       					"path": "packs/spell-item-macro.db",
       					"entity": "Item",
       					"module": "GMmacros"
-						}
+						},
 {
       					"name": "Feats Classes",
       					"label": "Feats Classes",
