@@ -3,7 +3,7 @@
 			"title": "GMmacros",
 			"description": "A module containing a compendium pack",
 			"author": "Atleticano",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"minimumCoreVersion": "0.6.0",
 			"compatibleCoreVersion":"9",
 			"packs": [
