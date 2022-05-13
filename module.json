@@ -3,7 +3,7 @@
 			"title": "GMmacros",
 			"description": "A module containing a compendium pack",
 			"author": "Atleticano",
-			"version": "1.5.0",
+			"version": "1.5.1",
 			"minimumCoreVersion": "0.6.0",
 			"compatibleCoreVersion":"9",
 			"packs": [
@@ -12,6 +12,13 @@
       					"label": "GM macros",
       					"path": "packs/gm-macros.db",
       					"entity": "Macro",
+      					"module": "GMmacros"
+						},
+				    	{
+      					"name": "Musics",
+      					"label": "Musics",
+      					"path": "packs/musics.db",
+      					"entity": "Playlist",
       					"module": "GMmacros"
 						},
 					{
