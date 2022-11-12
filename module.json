@@ -1,6 +1,7 @@
 {
 			"id": "GMmacros",
 			"name": "GMmacros",
+	 		"title": "GMMacros: module to help GM",
 			"description": "A module containing a compendium pack",
 			"authors": "Atleticano",
 			"version": "2.0",
