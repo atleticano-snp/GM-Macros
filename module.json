@@ -4,8 +4,13 @@
 			"description": "A module containing a compendium pack",
 			"authors": "Atleticano",
 			"version": "2.0",
-			"minimumCoreVersion": "0.6.0",
-			"compatibleCoreVersion":"10",
+ 			 "system": [
+   				 "dnd5e"
+  			],
+			"compatibility": {
+				"minimum": 10,
+				"verified": 10.288
+			},
 			"packs": [
     					{
       					"name": "GM Macros",
