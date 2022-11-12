@@ -1,9 +1,9 @@
 {
+			"id": "GMmacros",
 			"name": "GMmacros",
-			"title": "GMmacros",
 			"description": "A module containing a compendium pack",
-			"author": "Atleticano",
-			"version": "1.6.1",
+			"authors": "Atleticano",
+			"version": "2.0",
 			"minimumCoreVersion": "0.6.0",
 			"compatibleCoreVersion":"10",
 			"packs": [
@@ -11,42 +11,42 @@
       					"name": "GM Macros",
       					"label": "GM macros",
       					"path": "packs/gm-macros.db",
-      					"entity": "Macro",
+      					"type": "Macro",
       					"module": "GMmacros"
 						},
 				    	{
       					"name": "Musics",
       					"label": "Musics",
       					"path": "packs/musics.db",
-      					"entity": "Playlist",
+      					"type": "Playlist",
       					"module": "GMmacros"
 						},
 					{
       					"name": "Player Macros",
       					"label": "Player Macros",
       					"path": "packs/player-macros.db",
-      					"entity": "Macro",
+      					"type": "Macro",
       					"module": "GMmacros"
 						},
 {
       					"name": "Actors",
       					"label": "Actors",
       					"path": "packs/actors.db",
-      					"entity": "Actor",
+      					"type": "Actor",
       					"module": "GMmacros"
 						},
 {
       					"name": "Spell Item-Macro",
       					"label": "Spell Item-Macro",
       					"path": "packs/spell-item-macro.db",
-      					"entity": "Item",
+      					"type": "Item",
       					"module": "GMmacros"
 						},
 {
       					"name": "Feats Classes",
       					"label": "Feats Classes",
       					"path": "packs/feats-effects.db",
-      					"entity": "Item",
+      					"type": "Item",
       					"module": "GMmacros"
 						}
 					],
