@@ -1,66 +1,84 @@
 {
-			"id": "GMmacros",
-			"name": "GMmacros",
-	 		"title": "GMMacros: module to help GM",
-			"description": "A module containing a compendium pack",
-			"authors": [
-			    {
-			      "name": "Atleticano"
-				        }
-  			],
-			"version": "2.0",
- 			 "system": [
-   				 "dnd5e"
-  			],
-			"compatibility": {
-				"minimum": 10,
-				"verified": 10.288
-			},
-			"packs": [
-    					{
-      					"name": "GM Macros",
-      					"label": "GM macros",
-      					"path": "packs/gm-macros.db",
-      					"type": "Macro",
-      					"module": "GMmacros"
-						},
-				    	{
-      					"name": "Musics",
-      					"label": "Musics",
-      					"path": "packs/musics.db",
-      					"type": "Playlist",
-      					"module": "GMmacros"
-						},
-					{
-      					"name": "Player Macros",
-      					"label": "Player Macros",
-      					"path": "packs/player-macros.db",
-      					"type": "Macro",
-      					"module": "GMmacros"
-						},
-{
-      					"name": "Actors",
-      					"label": "Actors",
-      					"path": "packs/actors.db",
-      					"type": "Actor",
-      					"module": "GMmacros"
-						},
-{
-      					"name": "Spell Item-Macro",
-      					"label": "Spell Item-Macro",
-      					"path": "packs/spell-item-macro.db",
-      					"type": "Item",
-      					"module": "GMmacros"
-						},
-{
-      					"name": "Feats Classes",
-      					"label": "Feats Classes",
-      					"path": "packs/feats-effects.db",
-      					"type": "Item",
-      					"module": "GMmacros"
-						}
-					],
-    "url": "https://github.com/atleticano-snp/GM-Macros",
-    "manifest": "https://raw.githubusercontent.com/atleticano-snp/GM-Macros/main/module.json",
-    "download": "https://github.com/atleticano-snp/GM-Macros/archive/main.zip"
-		  }
+  "id": "GMmacros",
+  "title": "GMMacros: module to help GM",
+  "description": "A module containing a compendium pack",
+  "authors": [
+    {
+      "name": "Atleticano",
+      "flags": {}
+    }
+  ],
+  "version": "2.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.288"
+  },
+  "packs": [
+    {
+      "name": "GM Macros",
+      "label": "GM macros",
+      "path": "packs/gm-macros.db",
+      "type": "Macro",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "GM macro Musics",
+      "label": "GM macro Musics",
+      "path": "packs/musics.db",
+      "type": "Playlist",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "GM macro Player Macros",
+      "label": "GM macro Player Macros",
+      "path": "packs/player-macros.db",
+      "type": "Macro",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "GM macro Actors",
+      "label": "GM macro Actors",
+      "path": "packs/actors.db",
+      "type": "Actor",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "GM macro Spell Item-Macro",
+      "label": "GM macro Spell Item-Macro",
+      "path": "packs/spell-item-macro.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "GM macro Feats Classes",
+      "label": "GM macro Feats Classes",
+      "path": "packs/feats-effects.db",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/atleticano-snp/GM-Macros",
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/GM-Macros/main/module.json",
+  "download": "https://github.com/atleticano-snp/GM-Macros/archive/main.zip",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
