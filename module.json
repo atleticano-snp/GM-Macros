@@ -24,6 +24,15 @@
       "flags": {}
     },
     {
+      "name": "gm-macros-geral",
+      "label": "gm-macros-geral",
+      "path": "packs/gm-macros-geral.db",
+      "type": "Macro",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
       "name": "GM macro Musics",
       "label": "GM macro Musics",
       "path": "packs/musics.db",
