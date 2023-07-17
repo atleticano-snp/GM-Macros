@@ -8,7 +8,7 @@
       "flags": {}
     }
   ],
-  "version": 11.0",
+  "version": "11.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11.305"
@@ -16,7 +16,7 @@
   "packs": [
     {
       "name": "GM Macros",
-      "label": "GM macros",
+      "label": "GM Macros",
       "path": "packs/gm-macros",
       "type": "Macro",
       "private": false,
@@ -60,9 +60,18 @@
       "flags": {}
     },
     {
-      "name": "GM macro Spell Item-Macro",
-      "label": "GM macro Spell Item-Macro",
+      "name": "GM macro Spell Item-macro",
+      "label": "GM macro Spell Item-macro",
       "path": "packs/gm-macro-spell-item-macro",
+      "type": "Item",
+      "private": false,
+      "system": "dnd5e",
+      "flags": {}
+    },
+        {
+      "name": "GM RollTables",
+      "label": "GM RollTables",
+      "path": "packs/gm-rolltables",
       "type": "Item",
       "private": false,
       "system": "dnd5e",
