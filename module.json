@@ -17,7 +17,7 @@
     {
       "name": "GM Macros",
       "label": "GM macros",
-      "path": "packs/gm-macros.db",
+      "path": "packs/gm-macros",
       "type": "Macro",
       "private": false,
       "system": "dnd5e",
@@ -26,7 +26,7 @@
     {
       "name": "gm-macros-geral",
       "label": "gm-macros-geral",
-      "path": "packs/gm-macros-geral.db",
+      "path": "packs/gm-macros-geral",
       "type": "Macro",
       "private": false,
       "system": "dnd5e",
@@ -35,7 +35,7 @@
     {
       "name": "GM macro Musics",
       "label": "GM macro Musics",
-      "path": "packs/musics.db",
+      "path": "packs/gm-macro-musics",
       "type": "Playlist",
       "private": false,
       "system": "dnd5e",
@@ -44,7 +44,7 @@
     {
       "name": "GM macro Player Macros",
       "label": "GM macro Player Macros",
-      "path": "packs/player-macros.db",
+      "path": "packs/player-macros",
       "type": "Macro",
       "private": false,
       "system": "dnd5e",
@@ -53,7 +53,7 @@
     {
       "name": "GM macro Actors",
       "label": "GM macro Actors",
-      "path": "packs/actors.db",
+      "path": "packs/gm-macro-actors",
       "type": "Actor",
       "private": false,
       "system": "dnd5e",
@@ -62,7 +62,7 @@
     {
       "name": "GM macro Spell Item-Macro",
       "label": "GM macro Spell Item-Macro",
-      "path": "packs/spell-item-macro.db",
+      "path": "packs/gm-macro-spell-item-macro",
       "type": "Item",
       "private": false,
       "system": "dnd5e",
@@ -71,7 +71,7 @@
     {
       "name": "GM macro Feats Classes",
       "label": "GM macro Feats Classes",
-      "path": "packs/feats-effects.db",
+      "path": "packs/gm-macro-feats-classes",
       "type": "Item",
       "private": false,
       "system": "dnd5e",
