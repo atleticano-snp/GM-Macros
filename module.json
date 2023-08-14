@@ -8,10 +8,10 @@
       "flags": {}
     }
   ],
-  "version": "11.1",
+  "version": "11.2",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.305"
+    "verified": "11.307"
   },
   "packs": [
     {
