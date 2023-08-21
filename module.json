@@ -1,0 +1,76 @@
+{
+  "id": "GMmacros",
+  "title": "GMMacros: module to help GM",
+  "description": "A module containing a compendium pack",
+  "authors": [
+    {
+      "name": "Atleticano",
+      "flags": {}
+    }
+  ],
+  "version": "11.5",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.307"
+  },
+  "packs": [
+    {
+      "name": "gm-macros",
+      "label": "GM-Macros",
+      "path": "packs/gm-macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gm-spell-feats-items",
+      "label": "GM-Spell-Items",
+      "path": "packs/gm-spell-feats-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gm-musics",
+      "label": "GM-Musics",
+      "path": "packs/gm-musics",
+      "type": "Playlist",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gm-feats-classes",
+      "label": "GM-Feats-Classes",
+      "path": "packs/gm-feats-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gm-actors",
+      "label": "GM-Actors",
+      "path": "packs/gm-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+	"system": "dnd5e"
+    }
+  ],
+  "url": "https://github.com/atleticano-snp/GM-Macros",
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/GM-Macros/v11/module.json",
+  "download": "https://github.com/atleticano-snp/GM-Macros/archive/v11.zip"
+}
