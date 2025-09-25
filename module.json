@@ -8,10 +8,10 @@
       "flags": {}
     }
   ],
-  "version": "11.8",
+  "version": "13.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.307"
+    "minimum": "13",
+    "verified": "13"
   },
   "packs": [
     {
@@ -74,3 +74,4 @@
   "manifest": "https://raw.githubusercontent.com/atleticano-snp/GM-Macros/v11/module.json",
   "download": "https://github.com/atleticano-snp/GM-Macros/archive/v11.zip"
 }
+
